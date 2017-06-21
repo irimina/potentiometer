@@ -1,3 +1,6 @@
+//music box; sound mapped to the value of voltage manipulated using the potentiometer; 
+//motor turn based on the voltage generated as well
+
 int sensorValue ;
 int sensorLow = 1023;
 int sensorHigh = 0;
